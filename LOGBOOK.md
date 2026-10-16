@@ -19,12 +19,16 @@
 
 ### Lần 2: Bài 1
 
-- Trạng thái:
-- Lỗi / Cách sửa:
+- Trạng thái: Sửa lỗi lần 2
+- Lỗi: FAILED Test 1 (Chuan n=5): Tai vi tri smooth[1] -> Expected: 20.00, Actual: 0.00
+- Nguyên nhân: smooth[n - 1] = (raw[n - 2] + raw[n - 1]) / 3.0f;
+- Cách sửa: smooth[i] = (raw[i-1] + raw[i] + raw[i+1]) /3.0f;
+- Dùng AI fix bug
+  ![Promting](image.png)
 
 ### Lần 3: Bài 1 (Dự phòng)
 
-- Trạng thái:
+- Trạng thái: Pass 100%
 - Lỗi / Cách sửa:
 
 ---
