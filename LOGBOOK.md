@@ -43,8 +43,9 @@
 
 ### Lần 5: Bài 2
 
-- Trạng thái:
+- Trạng thái: Pass 100%
 - Lỗi / Cách sửa:
+- Học được gì: biết cách thao tác các phần tử trong khoảng giữa của mảng.
 
 ### Lần 6: Bài 2 (Dự phòng)
 
