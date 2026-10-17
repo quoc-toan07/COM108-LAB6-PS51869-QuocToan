@@ -69,7 +69,7 @@
 - Trạng thái: Pass 100%
 - Lỗi / Cách sửa:
   [CHAY TEST BAI 3: BO LOC LAM MO DIEM ANH BOX BLUR 3x3]
-  > > > BAI 3: PASS 100% TEST CASES!
+  BAI 3: PASS 100% TEST CASES!
 
 ### Lần 9: Bài 3 (Dự phòng)
 
