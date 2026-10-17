@@ -56,10 +56,13 @@
 
 ### Lần 7: Bài 3 - Bộ Lọc Làm Mờ Điểm Ảnh (Box Blur Filter 3x3)
 
-- Trạng thái:
-- Prompt hỏi AI (nếu có):
+- Trạng thái: Chờ chấm
+- Prompt hỏi AI (nếu có): Có xài AI
+  ![Promting](image-1.png)
 - Lỗi phát hiện qua Test (nếu có):
-- Cách sửa / Bài học:
+- Cách sửa / Bài học: Đợi GitHub Action phản hồi
+  Hiểu cách thao tác với arr 2 chiều, có demo code lại bằng tay
+  ![alt text](image-3.png)
 
 ### Lần 8: Bài 3
 
