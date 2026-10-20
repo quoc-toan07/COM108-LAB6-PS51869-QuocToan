@@ -82,14 +82,17 @@
 
 - Trạng thái: Chờ chấm
 - Prompt hỏi AI (nếu có): Có nhờ AI
-- Lỗi phát hiện qua Test (nếu có):
+- Lỗi phát hiện qua Test (nếu có): Chờ phản hồi Github Action.
 - Cách sửa / Bài học:
   ![Promting](image-4.png)
 
 ### Lần 11: Bài 4
 
-- Trạng thái:
+- Trạng thái: Pass 100%
 - Lỗi / Cách sửa:
+  [CHAY TEST BAI 4: RADAR DO DIEM NONG QUAN TRONG (PEAK DETECTION)]
+  BAI 4: PASS 100% TEST CASES!
+- _**Vẫn chưa hiểu về mảng 2 chiều. Em đang luyện thêm từ những bài dễ đi lên.**_
 
 ### Lần 12: Bài 4
 
